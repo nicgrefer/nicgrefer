@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estoy estudiando 1º de DAM<br>💬 Me gusta y aprender de otros y de mis errores <br>⚡ programar y hacer vídeos
+🔭 Estoy estudiando 1º de DAM<br>💬 Me gusta aprender con ayuda de otros y de mis errores <br>⚡ Siempre programando y haciendo vídeos
 
 
 # 💻 Tech Stack:
